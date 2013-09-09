@@ -15,7 +15,7 @@ group :test do
   gem 'json', :platforms => :ruby_18
   gem 'rspec', '>= 2.14'
   gem 'simplecov', :require => false
-  gem 'timecop'
+  gem 'timecop', :platforms => :mri_19
   gem 'webmock'
 end
 

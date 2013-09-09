@@ -1,5 +1,7 @@
 # The Twitter Ruby Gem
 
+Forked by me to usable on ree 1.8
+
 [![Gem Version](https://badge.fury.io/rb/twitter.png)][gem]
 [![Build Status](https://secure.travis-ci.org/sferik/twitter.png?branch=master)][travis]
 [![Dependency Status](https://gemnasium.com/sferik/twitter.png?travis)][gemnasium]
