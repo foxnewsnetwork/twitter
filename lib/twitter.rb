@@ -1,4 +1,4 @@
-require 'twitter/configuration'
+# require 'twitter/configuration'
 # require 'twitter/cursor'
 # require 'twitter/direct_message'
 # require 'twitter/entity'
