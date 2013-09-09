@@ -27,4 +27,4 @@
 # require 'twitter/trend'
 # require 'twitter/tweet'
 # require 'twitter/user'
-require 'uri'
+# require 'uri'
