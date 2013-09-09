@@ -3,7 +3,7 @@ module Twitter
     MAJOR = 4
     MINOR = 8
     PATCH = 1
-    PRE = nil
+    PRE = "ioffer"
 
     class << self
 
