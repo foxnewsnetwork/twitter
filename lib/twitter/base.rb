@@ -1,6 +1,6 @@
 require 'forwardable'
-require 'twitter/null_object'
-require 'uri'
+# require 'twitter/null_object'
+# require 'uri'
 
 module Twitter
   class Base
