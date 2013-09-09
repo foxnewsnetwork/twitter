@@ -1,8 +1,16 @@
 require 'singleton'
 
 module Twitter
-  class NullObject < BasicObject
+  class NullObject < Object
     include ::Singleton
+
+    def blank?
+      true
+    end
+
+    def present?
+      false
+    end
 
     def nil?
       true
