@@ -1,30 +1,30 @@
-require 'twitter/configuration'
-require 'twitter/cursor'
-require 'twitter/direct_message'
-require 'twitter/entity'
-require 'twitter/entity/hashtag'
-require 'twitter/entity/symbol'
-require 'twitter/entity/uri'
-require 'twitter/entity/user_mention'
-require 'twitter/geo_factory'
-require 'twitter/language'
-require 'twitter/list'
-require 'twitter/media_factory'
-require 'twitter/metadata'
-require 'twitter/oembed'
-require 'twitter/place'
-require 'twitter/profile_banner'
-require 'twitter/rate_limit'
-require 'twitter/relationship'
-require 'twitter/rest/client'
-require 'twitter/saved_search'
-require 'twitter/search_results'
-require 'twitter/settings'
-require 'twitter/size'
-require 'twitter/source_user'
-require 'twitter/suggestion'
-require 'twitter/target_user'
-require 'twitter/trend'
-require 'twitter/tweet'
-require 'twitter/user'
+require File.expand_path('../twitter/configuration', __FILE__)
+require File.expand_path('../twitter/cursor', __FILE__)
+require File.expand_path('../twitter/direct_message', __FILE__)
+require File.expand_path('../twitter/entity', __FILE__)
+require File.expand_path('../twitter/entity/hashtag', __FILE__)
+require File.expand_path('../twitter/entity/symbol', __FILE__)
+require File.expand_path('../twitter/entity/uri', __FILE__)
+require File.expand_path('../twitter/entity/user_mention', __FILE__)
+require File.expand_path('../twitter/geo_factory', __FILE__)
+require File.expand_path('../twitter/language', __FILE__)
+require File.expand_path('../twitter/list', __FILE__)
+require File.expand_path('../twitter/media_factory', __FILE__)
+require File.expand_path('../twitter/metadata', __FILE__)
+require File.expand_path('../twitter/oembed', __FILE__)
+require File.expand_path('../twitter/place', __FILE__)
+require File.expand_path('../twitter/profile_banner', __FILE__)
+require File.expand_path('../twitter/rate_limit', __FILE__)
+require File.expand_path('../twitter/relationship', __FILE__)
+require File.expand_path('../twitter/rest/client', __FILE__)
+require File.expand_path('../twitter/saved_search', __FILE__)
+require File.expand_path('../twitter/search_results', __FILE__)
+require File.expand_path('../twitter/settings', __FILE__)
+require File.expand_path('../twitter/size', __FILE__)
+require File.expand_path('../twitter/source_user', __FILE__)
+require File.expand_path('../twitter/suggestion', __FILE__)
+require File.expand_path('../twitter/target_user', __FILE__)
+require File.expand_path('../twitter/trend', __FILE__)
+require File.expand_path('../twitter/tweet', __FILE__)
+require File.expand_path('../twitter/user', __FILE__)
 require 'uri'
