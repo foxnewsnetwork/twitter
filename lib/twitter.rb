@@ -1,6 +1,6 @@
 require 'twitter/configuration'
-require 'twitter/cursor'
-require 'twitter/direct_message'
+# require 'twitter/cursor'
+# require 'twitter/direct_message'
 # require 'twitter/entity'
 # require 'twitter/entity/hashtag'
 # require 'twitter/entity/symbol'
